@@ -1,0 +1,18 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background-color: #2b2b2b;
+}
+#none {
+    color: white;
+}
+.none {
+    color: white;
+}
+.none1 {
+    color: white;
+    font-size: 2rem;
+    padding-left: 1400px;
+}
